@@ -12,3 +12,12 @@ int() = convert to integer
 str() = convert to string
 bool() = convert to boolean
 float() = convert to decimal
+
+# operators
+
+> <
+> = greater than or equal to
+
+# <= less than or equal to
+
+!=
